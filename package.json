@@ -1,0 +1,8 @@
+{
+  "name": "bun-check-ts2842-repro",
+  "private": true,
+  "devDependencies": {
+    "@typescript/native": "npm:typescript@7.0.2",
+    "typescript": "5.9.3"
+  }
+}
